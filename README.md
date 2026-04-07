@@ -2,7 +2,7 @@
 https://alejandraco0109.github.io/web_project_homeland/index.html
 # 🌍 Proyecto: Homeland
 
-### [Enlace a la Demo en Vivo]() 
+### [Enlace a la Demo en Vivo](https://1drv.ms/v/c/b65d21607501cf18/IQCus0Ow7UNySbOrxjZCj90fAS7rdCFZp1T6zgxTBPbeHeg?e=sO7PnP) 
 
 ## 📝 Descripción
 Homeland es una página web estática diseñada para presentar información visual y descriptiva sobre diferentes partes del mundo, destacando la comunidad de estudiantes y colegas de **TripleTen**. 
@@ -20,10 +20,4 @@ El objetivo principal de este proyecto fue aplicar conceptos avanzados de maquet
 * **Diseño Limpio:** Enfoque en la legibilidad y el orden visual de la información.
 * **Mantenibilidad:** Gracias al uso de BEM, el proyecto permite añadir nuevas secciones sin conflictos de estilos.
 
-## 💻 Cómo ejecutar este proyecto
-1. Clona el repositorio:
-   `git clone https://github.com/TU_USUARIO/web_project_homeland.git`
-2. Abre el archivo `index.html` en tu navegador preferido.
-
----
 Desarrollado como parte del currículo de **Tripleten**.
